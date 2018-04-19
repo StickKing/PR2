@@ -1,0 +1,11 @@
+
+Checking data.cpp...
+[data.cpp:37]: (style) The function 'beginStation' is never used.
+[data.cpp:32]: (style) The function 'endDate' is never used.
+[data.cpp:42]: (style) The function 'endStation' is never used.
+[data.cpp:57]: (style) The function 'setBeginStation' is never used.
+[data.cpp:52]: (style) The function 'setEndDate' is never used.
+[data.cpp:62]: (style) The function 'setEndStation' is never used.
+[data.cpp:47]: (style) The function 'setStartDate' is never used.
+[data.cpp:27]: (style) The function 'startDate' is never used.
+(information) Cppcheck cannot find all the include files (use --check-config for details)
